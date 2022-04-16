@@ -1,0 +1,12 @@
+{
+    "neme":"ityqj",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "小易小易最积极,天天笑哈哈",
+    "keywords": ["ityqj",
+        "dateFormate",
+        "escape"
+    ],
+    "license": "ISC"
+
+}
